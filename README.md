@@ -19,7 +19,7 @@ Soy una apasionada del mundo tecnológico con enfoque en **operaciones (OPS)** y
 ## 📫 ¿Cómo contactarme?
 * **LinkedIn:** [olga laura (milena-prog]
 * **GitHub:** [@olgalaurabarrientos-ops](https://github.com/olgalaurabarrientos-ops)
-* **Correo:** [olgalaurabarrientos@gmail.com]
+* **Correo:** [olgalaurabarrientosGmail.com]
 
 ---
 *Siempre estoy aprendiendo y buscando nuevos retos. ¡Conectemos!*
